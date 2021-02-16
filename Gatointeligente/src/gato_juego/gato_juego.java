@@ -15,14 +15,14 @@ int n=0;
 int fila;
 int columna;
 for (int a=0; a<=2; a=a+1) {
-for (int b=0; b<=2; b=b+1) {
-juego[a][b]="?";
-int dato;
-int dato1;
-int datob;
-int datob2;
-}
-
+  for (int b=0; b<=2; b=b+1) {
+    juego[a][b]="?";
+    int dato;
+    int dato1;
+    int datob;
+    int datob2;
+    // Toodo esto para qué es?
+  }
 }
 
 //tablero
